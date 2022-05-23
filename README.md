@@ -12,6 +12,7 @@ List of required tools:
 * Yarn v1.22.11
 * Gradle v6.7.1 or gradlew
 * Java 8
+* 
 
 ### Build
 
